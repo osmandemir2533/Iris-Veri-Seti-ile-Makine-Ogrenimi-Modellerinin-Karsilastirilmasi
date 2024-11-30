@@ -1,0 +1,9 @@
+→Gerekli Kütüphane kurulumları
+• pip install matplotlib seaborn scikit-learn pandas numpy
+
+→Kod çalışınca dosyanın bulunduğu klasörde iris.png adlı bir görsel oluşacak. Görselde, iris veri setinin türlerine göre yapılan analizlerin grafiği bulunmaktadır.
+
+→
+•Kod ilk çalıştığında iris veri setinin ilk 5 satırını terminalde gösterdim.
+•iris_df.describe() komutu kullanılarak veri setinin özet istatistikleri hesaplanır(ortalama, standart sapma, min, max)
+•En son kod üç farklı modelin değerlendirmesini yapacak ve her model için doğruluk (accuracy), karışıklık matrisi (confusion matrix) ve sınıflandırma raporunu (classification report) terminalde gösterecek.
