@@ -25,6 +25,7 @@
 • Değerlendirme
   
     →Her modelin doğruluk oranı (Accuracy), sınıflandırma raporu ve karmaşık matris (Confusion Matrix)
+    
 
 ![iris_pairplot](https://github.com/user-attachments/assets/6ff893c5-9872-4110-bb9b-c5eaca3bbe3a)
 ![code ss](https://github.com/user-attachments/assets/8fb141db-6c81-4f54-b82f-6132593f6986)
